@@ -1,0 +1,36 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Myriad Pro', 'Trebuchet MS', sans-serif;
+
+    background-image: url("image/l1.jpg");
+    color: #ffffff;
+}
+
+#login{
+
+    position:fixed;
+}
+h1{
+    color: floralwhite;
+}
+input[type=password]{
+    margin-top: 20px;
+}
+#pass{
+
+}
+b:hover{
+
+    color: cyan;
+}
+input[type=submit]:hover{
+    color: darkgray;
+}
+input[type=email]:hover{
+    color: rebeccapurple;
+}
+input[type=password]:hover{
+    color: rebeccapurple;
+}
